@@ -1,0 +1,34 @@
+.center 
+{
+   text-align: right; 
+   display: flex;
+   margin: 0px;
+   max-width: auto;
+   width: 100%;
+   height: 800px;
+}
+body.background
+{
+    background-color: darkgrey;
+}
+
+body h1 a
+{
+    color:red;
+    transition: all 200ms ease;
+    cursor: pointer;
+    display: block;
+    border: 1px solid #1a64d6;
+    font-size: 16px;
+    line-height: 22px;
+    padding: 16px 24px;
+    border-radius: 30px;
+    background: black;
+}
+p.cited
+{
+    text-align:center;
+    font-size:12px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
