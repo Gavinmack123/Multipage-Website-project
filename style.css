@@ -32,13 +32,7 @@ p.cited
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
-br+p 
-{
-    text-align:center;
-    font-size:24px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    margin:225px;
-}
+
 .center
 {
     text-align:center;
